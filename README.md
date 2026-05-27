@@ -1,6 +1,6 @@
 # ScanZard - QR Code Attendance Management System
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://scanzard.com)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://scan-zard.vercel.app/login)
 
 > **A modern QR code-based attendance tracking system built with React and Supabase.**
 
@@ -34,7 +34,7 @@ ScanZard is a full-stack web application that streamlines employee attendance ma
 
 ## 🚀 Live Demo
 
-🌐 **Website:** [https://scanzard.app](scan-zard.vercel.app)
+🌐 **Website:** [https://scanzard.app](https://scan-zard.vercel.app/login)
 
 ## 📸 Screenshots
 

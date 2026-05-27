@@ -34,7 +34,7 @@ ScanZard is a full-stack web application that streamlines employee attendance ma
 
 ## 🚀 Live Demo
 
-🌐 **Website:** [https://scanzard.com](https://scanzard.com)
+🌐 **Website:** [https://scanzard.app](scan-zard-byhbl7tcs-ashikbarde2002-9386s-projects.vercel.app)
 
 ## 📸 Screenshots
 
